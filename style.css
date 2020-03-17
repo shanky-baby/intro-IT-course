@@ -1,0 +1,45 @@
+h1 {
+    background-color: #D9D8D2;
+    color: #333333;
+    line-height: 200%; 
+    font-family: Georgia, "New Times Roman", serif;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #CCCCCC;
+    text-align: center;
+}
+h2 {
+    background-color: #F2F1EC;
+    color: #333333;
+}
+h3 {
+    background-color: #F2F1EC;
+    color: #333333;
+}
+body { 
+    font-family: Verdana, Arial, sans-serif;
+}
+h2, h3 { 
+    font-family: Georgia, "Times New Roman", serif;
+}
+nav { 
+    font-weight: bold;
+    font-size: 1.25em;
+    word-spacing: 1em;
+}
+nav a {
+    text-decoration: none; 
+}
+
+footer { 
+    color: #333333;
+    font-size: .75em;
+    font-style: italic;
+}
+a {
+    line-height: 200%;
+    font-family: Georgia, "New Times Roman", serif;
+    text-align: center;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #CCCCCC;
+    text-decoration: none;
+}
